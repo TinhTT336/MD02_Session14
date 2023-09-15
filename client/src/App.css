@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.btn-primary {
+  background-color: #1677ff !important;
+}
+.btn-primary:hover {
+  background-color: #4096ff !important;
+}

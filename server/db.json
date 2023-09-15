@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "name": "Nguyen Van A",
+      "dateOfBirth": "",
+      "email": "nguyenvana@gmail.com",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/project-md02.appspot.com/o/images%2Fdudu.png?alt=media&token=66bb8292-e497-451b-b546-b76cbcb95ecb",
+      "gender": 1,
+      "password": "",
+      "role": 1,
+      "id": 3
+    },
+    {
+      "name": "Nguyen Van A",
+      "dateOfBirth": "",
+      "email": "nguyenvana@gmail.com",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/project-md02.appspot.com/o/images%2Fdudu.png?alt=media&token=66bb8292-e497-451b-b546-b76cbcb95ecb",
+      "gender": 1,
+      "password": "",
+      "role": 1,
+      "id": 4
+    },
+    {
+      "username": "gjhgj",
+      "dateOfBirth": "2023-09-16",
+      "email": "tinhtt336@gmail.com",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/project-md02.appspot.com/o/images%2Fbackground-trai-cay-cao-cap_044212470.jpg?alt=media&token=32230c36-60f4-4df3-9f75-4c03753b94d6",
+      "gender": 0,
+      "password": "1234@A",
+      "role": 1,
+      "id": 7
+    },
+    {
+      "username": "s",
+      "dateOfBirth": "",
+      "email": "an@gmail.com",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/project-md02.appspot.com/o/images%2Fbackground-trai-cay-cao-cap_044212470.jpg?alt=media&token=608e0fbd-a192-45e0-a326-2d7e6e340cf9",
+      "gender": 0,
+      "password": "1234a@",
+      "role": 1,
+      "id": 8
+    },
+    {
+      "username": "s",
+      "dateOfBirth": "",
+      "email": "an@gmail.com",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/project-md02.appspot.com/o/images%2Fbackground-trai-cay-cao-cap_044212470.jpg?alt=media&token=608e0fbd-a192-45e0-a326-2d7e6e340cf9",
+      "gender": 0,
+      "password": "1234a@",
+      "role": 1,
+      "id": 9
+    },
+    {
+      "username": "a",
+      "dateOfBirth": "",
+      "email": "nguyen@gmail.com",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/project-md02.appspot.com/o/images%2Fbackground-trai-cay-cao-cap_044212470.jpg?alt=media&token=39011d30-059b-4324-a651-f445d80d0df0",
+      "password": "1234a@",
+      "role": 1,
+      "id": 10
+    },
+    {
+      "username": "a",
+      "dateOfBirth": "",
+      "email": "nguyen@gmail.com",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/project-md02.appspot.com/o/images%2Fbackground-trai-cay-cao-cap_044212470.jpg?alt=media&token=39011d30-059b-4324-a651-f445d80d0df0",
+      "password": "1234a@",
+      "role": 1,
+      "id": 11
+    },
+    {
+      "username": "a",
+      "dateOfBirth": "",
+      "email": "nguyenvana@gmail.com",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/project-md02.appspot.com/o/images%2Fbackground-trai-cay-cho-powerpoint-dep_044212668.jpg?alt=media&token=af112f3a-97d1-40f5-a405-f4c12a1d87ea",
+      "password": "1234a@",
+      "role": 1,
+      "id": 12
+    },
+    {
+      "username": "a",
+      "dateOfBirth": "",
+      "email": "nguyenvana@gmail.com",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/project-md02.appspot.com/o/images%2Fbackground-trai-cay-cho-powerpoint-dep_044212668.jpg?alt=media&token=af112f3a-97d1-40f5-a405-f4c12a1d87ea",
+      "password": "1234a@",
+      "role": 1,
+      "id": 13
+    },
+    {
+      "username": "a",
+      "dateOfBirth": "",
+      "email": "nguyenvana@gmail.com",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/project-md02.appspot.com/o/images%2Fbackground-trai-cay-cho-powerpoint-dep_044212668.jpg?alt=media&token=af112f3a-97d1-40f5-a405-f4c12a1d87ea",
+      "password": "1234a@",
+      "role": 1,
+      "id": 14
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "Nguyen Van A",
+      "gender": 0,
+      "dateOfBirth": "12-12-2000",
+      "image": ""
+    }
+  ]
+}
